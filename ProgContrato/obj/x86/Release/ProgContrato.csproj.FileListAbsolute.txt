@@ -1,0 +1,1 @@
+/home/pmperez/Projects/ProgContrato/ProgContrato/obj/x86/Release/ProgContrato.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+/home/pmperez/Projects/ProgContrato/ProgContrato/bin/Debug/ProgContrato.exe
+/home/pmperez/Projects/ProgContrato/ProgContrato/bin/Debug/ProgContrato.pdb
+/home/pmperez/Projects/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.csprojResolveAssemblyReference.cache
+/home/pmperez/Projects/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.csproj.CoreCompileInputs.cache
+/home/pmperez/Projects/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.exe
+/home/pmperez/Projects/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.pdb
+C:/Users/Patri/Downloads/Parte2DIA/ProgContrato/ProgContrato/bin/Debug/ProgContrato.exe
+C:/Users/Patri/Downloads/Parte2DIA/ProgContrato/ProgContrato/bin/Debug/ProgContrato.pdb
+C:/Users/Patri/Downloads/Parte2DIA/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.csproj.CoreCompileInputs.cache
+C:/Users/Patri/Downloads/Parte2DIA/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.exe
+C:/Users/Patri/Downloads/Parte2DIA/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.pdb
+/Users/patripon/Downloads/ProgContrato/ProgContrato/bin/Debug/ProgContrato.exe
+/Users/patripon/Downloads/ProgContrato/ProgContrato/bin/Debug/ProgContrato.pdb
+/Users/patripon/Downloads/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.csprojAssemblyReference.cache
+/Users/patripon/Downloads/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.csproj.CoreCompileInputs.cache
+/Users/patripon/Downloads/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.exe
+/Users/patripon/Downloads/ProgContrato/ProgContrato/obj/x86/Debug/ProgContrato.pdb

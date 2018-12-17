@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{47875B51-558D-41FA-B014-89024EDCAB30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgContrato/VectorFlexible.cs">
+    <Files>
+      <File FileName="ProgContrato/Program.cs" Line="42" Column="13" />
+      <File FileName="ProgContrato/VectorFlexible.cs" Line="59" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProgContrato PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
